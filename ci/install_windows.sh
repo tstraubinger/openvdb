@@ -10,7 +10,6 @@ VCPKG_INSTALL_CMD="vcpkg install
     openexr
     tbb
     gtest
-    cppunit
     blosc
     glfw3
     glew
